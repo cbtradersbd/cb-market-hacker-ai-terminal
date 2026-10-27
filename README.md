@@ -25,7 +25,7 @@
 
 ```mermaid
 graph TD
-    A[OTC / Real Tick Stream] -->|Sub-millisecond WebSocket| B(CB Market Hacker Ingestion Engine)
+    A[OTC / Real Tick Stream] -->|Decrypted Raw Binary Protocol Pipeline| B(CB Market Hacker Ingestion Engine)
     B --> C{Neural Confluence & Volatility Gate}
     C -->|High Confidence >= 90%| D[Automated Signal Dispatcher]
     C -->|Low Volume / Choppy| E[Noise Rejection Filter]
@@ -78,16 +78,16 @@ Yes. The terminal exposes modular client interfaces connecting directly to Quote
 ---
 
 ## 🏷️ Search & Index Tags
-`cb-market-hacker` • `quotex-api` • `ai-trading-bot` • `market-scanner` • `otc-trading` • `algorithmic-trading` • `binary-signals` • `websocket-stream` • `tradingview-bot` • `pocketoption-api`
+`cb-market-hacker` • `quotex-api` • `ai-trading-bot` • `market-scanner` • `otc-trading` • `algorithmic-trading` • `binary-signals` • `binary-stream` • `tradingview-bot` • `pocketoption-api`
 
 
 ---
 
 ## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
-Cross-platform algorithmic trading, real-time WebSocket feeds, and AI signal engines:
+Cross-platform algorithmic trading, real-time Decrypted Sub-Millisecond Binary Feeds, and AI signal engines:
 
-| Platform | Official REST & WebSocket API | Signals & Telegram Bots | Data Tools & Bridges |
+| Platform | Official Official High-Frequency Binary Protocol & REST API | Signals & Telegram Bots | Data Tools & Bridges |
 | :--- | :--- | :--- | :--- |
 | **Quotex** | [Quotex-API](https://github.com/cbtradersbd/Quotex-API) | [quotex-otc-signal-engine](https://github.com/cbtradersbd/quotex-otc-signal-engine) | [quotex-tradingview-webhook-bridge](https://github.com/cbtradersbd/quotex-tradingview-webhook-bridge) |
 | **Pocket Option** | [Pocket-Option-API](https://github.com/cbtradersbd/Pocket-Option-API) | [pocket-option-telegram-signals-engine](https://github.com/cbtradersbd/pocket-option-telegram-signals-engine) | [pocketoption-tradingview-alerts-connector](https://github.com/cbtradersbd/pocketoption-tradingview-alerts-connector) |
@@ -108,3 +108,4 @@ Need a customized production-ready trading bot, proprietary algorithm integratio
 
 ## ⭐ Star This Project
 If you find this open-source trading toolkit valuable, please give it a **Star on GitHub** to support active development!
+<!-- last_verified_sync: 1793078618 -->
