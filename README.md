@@ -1,12 +1,23 @@
-# ⚡ CB Market Hacker — AI Trading Signals & OTC Market Terminal
+# ⚡ CB Market Hacker : AI Trading Signals & OTC Market Terminal
 
-> **Institutional-grade 2027–2030 quantitative market scanner, real-time OTC candlestick anomaly detection, and neural trend confluence terminal.**
+> **Institutional-grade 2027-2030 quantitative market scanner, real-time OTC candlestick anomaly detection, and neural trend confluence terminal.**
 
 [![Official Telegram Channel](https://img.shields.io/badge/Join_Telegram-CB_Traders_BD-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/+R_kEsY9yqkA1NDI1)
 [![Direct Contact](https://img.shields.io/badge/Order_Custom_Bot-@YouKnowWho__am-blue?style=for-the-badge&logo=telegram)](https://t.me/YouKnowWho_am)
 [![Live API](https://img.shields.io/badge/Live_Swagger_Docs-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://api1.api.cbtradersbd.com/docs)
 [![Python Version](https://img.shields.io/badge/Python-3.10_|_3.11_|_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://api1.api.cbtradersbd.com/docs)
 [![License](https://img.shields.io/badge/License-Proprietary_Enterprise-green?style=for-the-badge)](https://t.me/YouKnowWho_am)
+
+---
+
+---
+
+## 🖥️ Production AI Terminal Preview
+
+<div align="center">
+  <img src="assets/cb_market_hacker_preview.png" alt="CB Market Hacker Terminal Preview" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,255,204,0.15);" />
+  <p><em>Figure 1: CB Market Hacker Voice AI & Real-Time OTC Confluence Execution Dashboard.</em></p>
+</div>
 
 ---
 
@@ -72,7 +83,7 @@ Yes. The terminal exposes modular client interfaces connecting directly to Quote
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
 Cross-platform algorithmic trading, real-time WebSocket feeds, and AI signal engines:
 
