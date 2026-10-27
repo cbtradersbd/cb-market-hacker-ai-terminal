@@ -1,0 +1,19 @@
+{
+  "terminal_name": "CB Market Hacker AI Terminal",
+  "version": "4.2.0-enterprise",
+  "engine_mode": "hybrid_neural_otc",
+  "supported_assets": [
+    "EURUSD_otc",
+    "GBPUSD_otc",
+    "USDJPY_otc",
+    "AUDCAD_otc",
+    "BTCUSD_otc"
+  ],
+  "timeframes": [
+    "M1",
+    "M5"
+  ],
+  "min_confidence_score": 0.88,
+  "max_martingale_steps": 1,
+  "api_endpoint": "https://api1.api.cbtradersbd.com/docs"
+}

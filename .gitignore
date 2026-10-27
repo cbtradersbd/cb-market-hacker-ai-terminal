@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+.env
+.env.local
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
